@@ -3,6 +3,7 @@ dependencies:
   - IPython
   - networkx
   - Matplotlib
+  - xelatex
 
 
 
