@@ -3,6 +3,8 @@ dependencies:
   - IPython
   - networkx
   - Matplotlib
+  - holoviews
+  - bokeh
 
 
 
